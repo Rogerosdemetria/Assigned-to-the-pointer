@@ -1,0 +1,2 @@
+# Assigned-to-the-pointer
+string food = "Pizza";  // A food variable of type string string* ptr = &amp;food;    // A pointer variable, with the name ptr, that stores the address of food  // Output the value of food (Pizza) cout &lt;&lt; food &lt;&lt; "\n";  // Output the memory address of food (0x6dfed4) cout &lt;&lt; &amp;food &lt;&lt; "\n";  // Output the memory address of food with the pointer (0x6dfed4) cout &lt;&lt; ptr &lt;&lt; "\n";
